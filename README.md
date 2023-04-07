@@ -13,7 +13,8 @@ To get this model and application built you will need to setup the environment.
 Tech stack:
 - Amazon SageMaker
 - Amazon S3
-- AWS IAM
+- AWS Cognito - handles user authentication and authorization
+- AWS IAM - handles user access to resources
 - Amazon EC2 (for instances that use NVIDIA A100 GPUs (e.g. p4d.24xlarge))
 - Amazon CloudWatch: A monitoring and observability service 
 - AWS Cost Explorer: You can use this to monitor and optimize your spending on the resources used for the LLM model.
