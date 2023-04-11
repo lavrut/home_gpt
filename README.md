@@ -19,3 +19,4 @@ Tech stack:
 - Amazon CloudWatch: A monitoring and observability service 
 - AWS Cost Explorer: You can use this to monitor and optimize your spending on the resources used for the LLM model.
 - Hugging Face's GPT2 transformer library
+- Retool is a great tool to incorporate here instead of building your own page with css, html (Example of how you can use retool https://www.youtube.com/watch?v=D6Xj_W4leu8&t=331s)
